@@ -6,7 +6,9 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+BEFORE SIMULATION:
 ![WhatsApp Image 2025-11-10 at 15 47 20_0469ce0d](https://github.com/user-attachments/assets/dabe75a1-392c-4d99-83e0-9655f9da94ab)
+AFTER SIMULATION:
 ![WhatsApp Image 2025-11-10 at 15 47 20_652cb81b](https://github.com/user-attachments/assets/909ee38d-e7a9-48b7-bcc4-87588bca56ad)
 
 
