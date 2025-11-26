@@ -7,9 +7,11 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+<img width="1600" height="904" alt="image" src="https://github.com/user-attachments/assets/07ef30e3-bf64-4ea0-af60-dada33d0abd4" />
 
 ## Graph
 
+<img width="821" height="426" alt="image" src="https://github.com/user-attachments/assets/89742580-66a0-428c-9d60-134ee389c82a" />
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
